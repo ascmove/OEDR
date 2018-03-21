@@ -1,0 +1,11 @@
+# ignore idea folder
+
+.idea/
+
+# ignore private folder
+
+.private/
+
+# ignore out folder
+
+.out/
